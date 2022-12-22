@@ -33,7 +33,7 @@ int _strcmp(char *s1, char *s2)
 			 * return the difference between
 			 * the two characters
 			 */
-			r = s1[i] - s2[i]
+			r = s1[i] - s2[i];
 				break;
 		}
 		else
