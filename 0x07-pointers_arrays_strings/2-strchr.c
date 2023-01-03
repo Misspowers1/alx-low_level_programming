@@ -25,5 +25,3 @@ char *_strchr(char *s, char c)
 	/*return null if not found*/
 	return ('\0');
 }
-Footer
-© 2023 GitHub, Inc.
