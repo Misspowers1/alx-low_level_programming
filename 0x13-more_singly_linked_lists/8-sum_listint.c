@@ -22,3 +22,4 @@ int sum_listint(listint_t *head)
 
 	/*if list will be empty it will return sum = 0*/
 	return (sum);
+}
