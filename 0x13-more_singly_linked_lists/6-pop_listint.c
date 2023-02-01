@@ -31,3 +31,4 @@ int pop_listint(listint_t **head)
 
 	/*return element of first node*/
 	return (first_node);
+}
