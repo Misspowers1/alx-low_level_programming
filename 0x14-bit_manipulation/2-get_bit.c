@@ -18,3 +18,4 @@ int get_bit(unsigned long int n, unsigned int index)
 	bit = bin & 1;/*AND bitwise operator*/
 
 	return (bit);
+}
